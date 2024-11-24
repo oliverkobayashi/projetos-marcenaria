@@ -1,6 +1,6 @@
 # 🪚 Projetos de Marcenaria 
 
-Bem-vindo ao repositório de **projetos de marcenaria**! Aqui você encontrará uma coleção de projetos para criar móveis e peças de madeira, com arquivos `.dwg` prontos para uso em máquinas de corte CNC ou para impressão técnica.  
+Bem-vindo ao repositório de **projetos de marcenaria**! Aqui você encontrará uma coleção de projetos para criar móveis e peças de madeira, com arquivos `.dwg` prontos para uso em máquinas de corte CNC ou para impressão técnica.
 
 > **Sustentabilidade em foco**: Todos os projetos foram criados utilizando madeiras de construção ou madeiras recicladas, promovendo o reaproveitamento de materiais e contribuindo para um mundo mais sustentável. 🌱
 
@@ -16,7 +16,7 @@ Bem-vindo ao repositório de **projetos de marcenaria**! Aqui você encontrará 
 
 ## 🛠 Como os projetos foram feitos?
 
-Todos os projetos deste repositório foram desenvolvidos com atenção aos detalhes e à sustentabilidade. Utilizamos:
+As madeiras utilizadas na maioria dos projetos são provenientes de reuso, promovendo a reutilização de materiais.
 
 ### **Materiais**
 - Madeiras de construção ou recicladas, reaproveitando sobras de outras obras ou móveis descartados.
@@ -34,7 +34,7 @@ Todos os projetos deste repositório foram desenvolvidos com atenção aos detal
   - Lixadeira.
   - Furadeiras/parafusadeiras.
 - **Ferramentas manuais**:
-  - Trena, esquadro, grampos de fixação e formões.
+  - Trena, paquímetro, esquadro, grampos de fixação e formões.
 
 Essas ferramentas permitiram criar projetos funcionais e esteticamente agradáveis, com alta durabilidade e aproveitamento máximo da madeira.
 
@@ -47,13 +47,13 @@ O processo de fabricação foi documentado em fotos para ilustrar cada etapa, co
 1. **Seleção da Madeira**  
    A madeira foi escolhida de acordo com a aplicação do projeto, considerando o ambiente (interno ou externo) e os níveis de umidade tolerados.  
    <p align="center">
-     <img width="800" height="auto" src="projetos-marcenaria/estante-flores/f1.jpg" alt="Seleção da Madeira">
+     <img width="800" height="auto" src="estante-flores/f1.jpg" alt="Seleção da Madeira">
    </p>
 
 2. **Corte**  
    As peças foram cortadas conforme as especificações do projeto, utilizando ferramentas como serra circular e serra tico-tico.  
    <p align="center">
-     <img width="800" height="auto" src="projetos-marcenaria/estante-flores/f2.jpg" alt="Corte">
+     <img width="800" height="auto" src="estante-flores/f2.jpg" alt="Corte">
    </p>
 
 3. **Preparo**  
@@ -61,30 +61,23 @@ O processo de fabricação foi documentado em fotos para ilustrar cada etapa, co
    - O lixamento garantiu superfícies suaves e seguras.  
    - As peças foram identificadas para organização na montagem.  
    <p align="center">
-     <img width="800" height="auto" src="projetos-marcenaria/estante-flores/f3.jpg" alt="Preparo">
+     <img width="800" height="auto" src="estante-flores/f3.jpg" alt="Preparo">
    </p>
 
 4. **Montagem**  
    Na montagem, utilizamos cola Titebond 2 e parafusos adequados para garantir resistência estrutural e durabilidade.  
    <p align="center">
-     <img width="800" height="auto" src="projetos-marcenaria/estante-flores/f4.jpg" alt="Montagem">
+     <img width="800" height="auto" src="estante-flores/f4.jpg" alt="Montagem">
    </p>
 
 5. **Acabamento**  
    Finalizamos o projeto com aplicação de seladores, vernizes ou Polisten, realçando o visual e protegendo a madeira.  
    <p align="center">
-     <img width="800" height="auto" src="projetos-marcenaria/estante-flores/f5.jpg" alt="Acabamento">
+     <img width="800" height="auto" src="estante-flores/f5.jpg" alt="Acabamento">
    </p>
 
 ---
 
-## Sobre os Projetos  
+### Detalhes dos Projetos
 
-Os projetos disponíveis neste repositório foram criados com foco no reaproveitamento de materiais e na simplicidade do processo de construção, permitindo que marceneiros de todos os níveis os reproduzam facilmente.  
-
-- **Materiais utilizados**: madeiras recicladas, parafusos, cola Titebond 2.  
-- **Equipamentos necessários**: serra circular, serra tico-tico, plaina elétrica, lixadeira, furadeira/parafusadeira, entre outros.  
-
-Acesse os arquivos de cada projeto e siga as instruções para começar a criar!  
-
----
+Detalhes completos, incluindo as instruções de montagem e os arquivos `.dwg` podem ser encontrados nos respectivos arquivos de cada projeto.
